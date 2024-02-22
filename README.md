@@ -7,4 +7,5 @@ Install libsodium and build with "-lsodium"
 
 # Usage
 -encrypt [Source File] [Destination File]
+
 -decrypt [Source File] [Destination File]
