@@ -1,5 +1,6 @@
 # key-manager
 Libsodium based file encryption with password
+
 Uses xChaCha20-Poly1305 with argon2id
 
 # Build
